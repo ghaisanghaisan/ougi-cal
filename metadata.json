@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Danish"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "A minimal transparent calendar widget with simple events",
+        "Icon": "office-calendar",
+        "Id": "com.github.ghaisanghaisan.ougi-cal",
+        "License": "GPL-2.0-or-later",
+        "Name": "Ougi Calendar",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

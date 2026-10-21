@@ -1,0 +1,19 @@
+# Compiled QML cache
+*.qmlc
+*.jsc
+
+# Build / packaging output
+*.tar.gz
+*.zip
+build/
+
+# Editor / OS
+.DS_Store
+*~
+*.swp
+.idea/
+.vscode/
+
+# KDE/Plasma
+.directory
+.kdev4/
