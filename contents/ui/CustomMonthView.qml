@@ -126,6 +126,9 @@ Item {
     }
 
     function eventDateKey(date) {
+        if (!date || isNaN(date.getTime())) {
+            return "";
+        }
         return Qt.formatDate(date, "yyyy-MM-dd");
     }
 
